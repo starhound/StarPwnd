@@ -1,3 +1,5 @@
+# Written and developed by Wesley Reid (http://starhound.com) (http://lostsouls.org)
+
 import requests
 import hashlib
 
